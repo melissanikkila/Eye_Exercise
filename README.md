@@ -1,5 +1,5 @@
 # Eye Exercise
-A webpage featuring two eyes that follow your mouse cursor as it moves around the page.
+A dynamic JavaScript based webpage featuring two eyes that follow your mouse cursor as it moves around the page.
 
 # Installation
 This program can be downloaded from this GitHub repository in order to be used on your personal device.
